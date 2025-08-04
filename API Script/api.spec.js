@@ -18,9 +18,9 @@ const CONFIG = {
     username: 'rose.gomez@jourrapide.com',
     password: 'Pass@123'
   },
-  timeout: 30000,
+  // timeout: 3000,
   retryAttempts: 3,
-  delayBetweenRequests: 2000
+  // delayBetweenRequests: 2000
 };
 
 // Test data storage
